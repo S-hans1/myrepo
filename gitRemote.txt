@@ -8,3 +8,5 @@
   4.2. password?
 5. for password 
    go to settings> developer settings> personal access tokens> tokens classic> generate new token> generate new token classic> write a name eg. access token> check all the boxes>generate token>copy the token and put it in the password and enter
+
+  New change   
